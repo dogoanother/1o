@@ -1,0 +1,10 @@
+fibo=str
+n=0
+temp=0(str)
+print ("sequencia de fibonat")
+
+while n<10:
+    # temp.append()
+    n=n+1
+    temp[n]=fibo
+    fibo[n+1]=fibo[n]+temp
