@@ -1,0 +1,7 @@
+n1=input('lanca a braba')
+
+
+print ('sua braba e ')
+print ('um numero ? ', n1.isnumeric())
+print ('um char ? ', n1.alpha())
+
